@@ -1,5 +1,5 @@
 {
-    "name": "nativescript-app-tour",
+    "name": "nativescript-app-tour-updated",
     "version": "2.0.2",
     "description": "NativeScript plugin for building a tour, showcase or a walkthrough for your app.",
     "main": "app-tour",
@@ -55,7 +55,7 @@
         "url": "https://github.com/hamdiwanis/nativescript-app-tour/issues"
     },
     "license": "Apache-2.0",
-    "homepage": "https://github.com/hamdiwanis/nativescript-app-tour",
+    "homepage": "https://github.com/romandragan/nativescript-app-tour",
     "readmeFilename": "README.md",
     "devDependencies": {
         "tns-core-modules": "^5.3.2",

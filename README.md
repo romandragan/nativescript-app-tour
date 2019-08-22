@@ -8,7 +8,7 @@
 
 ## Installation
 ```bash
-tns plugin add nativescript-app-tour
+tns plugin add nativescript-app-tour-updated
 ```
 
 ### Usage

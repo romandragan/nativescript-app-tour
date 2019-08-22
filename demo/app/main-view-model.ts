@@ -1,5 +1,5 @@
 import { Observable } from 'tns-core-modules/data/observable';
-import { AppTour, TourStop, TourEvents } from 'nativescript-app-tour';
+import { AppTour, TourStop, TourEvents } from 'nativescript-app-tour-updated';
 import { Page } from 'tns-core-modules/ui/page';
 
 export class MainViewModel extends Observable {
